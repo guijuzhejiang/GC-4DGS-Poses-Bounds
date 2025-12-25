@@ -33,7 +33,7 @@
                 "patch_size": 16,
                 "qk_scale": "default",
                 "vit_arch": "alt_gvt_small",
-                "vit_path": "./pretrained_weights/alt_gvt_small.pth",
+                "vit_path": "./mvs_modules/pretrained/alt_gvt_small.pth",
                 "vit_ch": [64,128,256,512],
                 "out_ch": 64,
                 "att_fusion": true,
