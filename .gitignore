@@ -21,5 +21,3 @@ eggs/
 .eggs/
 *.egg
 *.sh
-mvs_modules/pretrained/*.zip
-utils/DV2/
